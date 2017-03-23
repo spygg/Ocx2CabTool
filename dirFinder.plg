@@ -1,0 +1,27 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: dirFinder - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSPF2C.tmp" with contents
+[
+/nologo /MDd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_WINDOWS" /D "_AFXDLL" /D "_MBCS" /Fp"Debug/dirFinder.pch" /Yu"stdafx.h" /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"D:\code\dirFinder\dirFinderDlg.cpp"
+]
+Creating command line "cl.exe @C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSPF2C.tmp" 
+Creating command line "link.exe /nologo /subsystem:windows /incremental:yes /pdb:"Debug/dirFinder.pdb" /debug /machine:I386 /out:"Debug/dirFinder.exe" /pdbtype:sept  .\Debug\dirFinder.obj .\Debug\dirFinderDlg.obj .\Debug\StdAfx.obj .\Debug\dirFinder.res "
+<h3>Output Window</h3>
+Compiling...
+dirFinderDlg.cpp
+Linking...
+
+
+
+<h3>Results</h3>
+dirFinder.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>
