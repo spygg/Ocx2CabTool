@@ -1,0 +1,1 @@
+makecert /sv "SqlPlus.PVK" /n "CN=www.guet.edu.cn,E=www.guet.edu.cn,O=Rush" babyt.cer
